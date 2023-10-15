@@ -1,4 +1,3 @@
-Access-Control-Allow-Origin:
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1", Filme 1 teste
 https://www.googleapis.com/drive/v3/files/16-8GtEpFULrJ4s68tl6tG7C6chbBYDGQ?alt=media&key=AIzaSyBFd-Pg-cWdl_RyBATmdTGLMzm2oaBOCZQ
